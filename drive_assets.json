@@ -1,0 +1,13 @@
+{
+  "repo": "BoyaConf2026",
+  "drive_folder": "https://drive.google.com/drive/folders/1HnOPlIBtMUTMz42iJiuaSFEBRI4fQKyl",
+  "download": [
+    {
+      "kind": "slides",
+      "id": "1k1JXYeW4cSiYYEXgT3ajzVxVKufFE5bKkEEaCun6tEQ",
+      "dest": "slides/el_ml_clasico_no_esta_muerto_todavia.pdf",
+      "drive_name": "El ML clásico no está muerto todavía (Google Slides)",
+      "url": "https://docs.google.com/presentation/d/1k1JXYeW4cSiYYEXgT3ajzVxVKufFE5bKkEEaCun6tEQ/edit"
+    }
+  ]
+}
