@@ -2,7 +2,7 @@
 
 **"El ML clásico no está muerto todavía: un caso de estudio de un cliente en la industria de la preservación de flores"**, charla de Mauricio Repetto (ML/AI Engineer en Nortal) en BoyaConf 2026.
 
-Es una charla de caso de estudio y **no tiene notebooks**: el repo contiene solo las slides. Cuenta cómo se construyó, para una empresa que trabajaba con IA/ML por primera vez, una solución de predicción de ventas con ML clásico (series temporales con Prophet) en lugar de LLMs o agentes.
+Es una charla de caso de estudio que cuenta cómo se construyó una solución de predicción de ventas con ML clásico (series temporales con Prophet) en lugar de LLMs o agentes, con un aditivo interesante que es que la empresa trabajaba con IA/ML por primera vez.
 
 ## Contenido de las slides
 
